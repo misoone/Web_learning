@@ -1,0 +1,14 @@
+{
+  "name": "userlists",
+  "version": "1.0.0",
+  "description": "게시판을 express 활용해서 만든 웹사이트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"잘나요나요\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
